@@ -1,0 +1,17 @@
+{
+  "name": "convesormoedas",
+  "displayName": "convesormoedas",
+  "expo": {
+    "name": "convesormoedas",
+    "slug": "convesormoedas",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
